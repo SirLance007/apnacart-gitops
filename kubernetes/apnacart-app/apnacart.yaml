@@ -10,7 +10,7 @@ metadata:
   name: apnacart-app
   namespace: default
 spec:
-  replicas: 5
+  replicas: 4
   selector:
     matchLabels:
       app: apnacart
