@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     # Replace this with your actual GitHub repository URL
-    repoURL: 'https://github.com/YOUR_GITHUB_USERNAME/apnacart-gitops.git'
+    repoURL: 'https://github.com/SirLance007/apnacart-gitops.git'
     targetRevision: HEAD
     path: kubernetes/apnacart-app
   destination:
